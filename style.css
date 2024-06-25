@@ -29,6 +29,7 @@ body {
     background:  hsl(275, 100%, 97%);
     background-image: url('assets/images/background-pattern-mobile.svg');
     background-size: contain;
+    background-repeat: no-repeat;
 }
 
 .container {
