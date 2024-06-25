@@ -28,7 +28,7 @@ body {
     align-items: center;
     background:  hsl(275, 100%, 97%);
     background-image: url('assets/images/background-pattern-mobile.svg');
-    background-repeat: no-repeat;
+    background-size: contain;
 }
 
 .container {
